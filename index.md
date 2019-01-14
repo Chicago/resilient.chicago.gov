@@ -5,42 +5,37 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/uswds/img/hero.png
+  image: /assets/img/rc/sunrise-lake-shore-drive.jpg
   callout:
-    alt: "Join Our Community"
-    text: Get started with the CDS
+    alt: "Resilient Chicago"
+    text: A Plan for Inclusive Growth & a Connected City
   button:
-    href: /docs/
-    text: Quick Start Guide
-  content: You can get involved by giving us feedback, [writing an issue](https://github.com/Chicago/design-system/issues/new), or [finding other ways to contribute](https://opensource.guide/how-to-contribute/). We communicate about this project in our [CDS Slack workspace](https://chicagodesignsystem.slack.com/messages). Request an invitation by emailing us at [Chicago Design System](mailto:design.system@cityofchicago.org).
+    href: javascript:void(0);
+    text: Download the report
+  content: Read the full report written by the City of Chicago, pioneered by the Rockefeller Foundation. 
 
-tagline: About the Chicago Design System
-intro: |
-  The Chicago Design System (CDS) is a guide to producing delightful services and technology applications for employees and residents of the City of Chicago.
+tagline: About Resilient Chicago
+intro: Resilience – the ability to rebound quickly from and strengthen a city's capacity to respond to shocks or stresses – is not a new concept for Chicagoans. Time and again, the city has proven its ability to take on challenges and achieve unprecedented accomplishments. After the Great Fire of 1871, Chicago residents helped the city rise from the ashes and rebuilt a stronger, smarter, and reimagined urban landscape with innovations such as the modern skyscraper. With the reversal of the Chicago River in 1900, Chicago took a critical step to protect the city’s supply of clean drinking water and Lake Michigan. Chicago has taken bold steps to ensure that the city is well positioned to respond to shocks – such as heat waves and blizzards – and stresses – such as crime, violence, and poverty.
 
-  The CDS is open source (under the CC0 1.0 License), and contributions or commentary from City of Chicago employees and the public at large are welcome. In its current form, the CDS is forked from the US Web Design System, and follows its baseline standards for design. We have begun adding our own "Chicago" theming on top of this system, and more work will be done to give the CDS a unique look and feel as time goes on.
-
-<!--graphics:
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Graphic headings can vary.
-    description: Graphic headings can be used a few [different ways](javascript:void(0);), depending on what your landing page is for. Highlight your values, specific program areas, or results.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Stick to 6 or fewer words.
-    description: Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Never highlight anything without a goal.
-    description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Could also have 2 or 6.
-    description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those. -->
 ---
 
-# hello world!
+
+Along with the city’s extraordinary assets, this record has positioned Chicago to support more resilient communities for all its residents. Chicago’s location along Lake Michigan provides both an abundance of fresh water, and a host of economic and recreational opportunities. The city’s central location has long made it the crossroads of America’s transportation system, serving as the intersection of many of the nation’s busiest railroads and interstates, and home to two world-class airports. Chicago’s central location also reduces its susceptibility to the effects of climate change and natural disasters such as wildfires, hurricanes, and rising sea levels. Home to more than 400 major corporations, recognized as the most promising city for foreign investment in the Americas, and boasting a thriving local business community, Chicago benefits from its many economic assets. Such assets have made Chicago one of the most diversified urban economies in the United States, with no single industry employing more than 14 percent of the city's workforce.
+
+Despite all of Chicago’s strengths, the city still faces many challenges. Chicago has long been a destination for those seeking a better life and greater opportunity, from the first non-indigenous settler of the city, Jean Baptiste Point du Sable, who settled on the north bank of the Chicago River in the late 18th century, to the millions of individuals from different racial and ethnic backgrounds who have since followed. This rich history of migration and immigration has undoubtedly shaped the character and vibrancy of Chicago’s neighborhoods. Yet discriminatory practices and policies have caused disparities that disproportionately burden Chicago’s most vulnerable residents. These disparities, which often fall along geographic, racial, and socioeconomic lines, notably exist in the areas of public safety, economic opportunity, educational attainment, and transportation access, among numerous others.
+
+As the result of the strategy development process and to focus the efforts of the Chicago Resilience Strategy, Resilient Chicago, four pressing resilience challenges were identified:
+
+* Reducing disparities between Chicago’s neighborhoods;
+* Addressing the root causes of crime and violence;
+* Ensuring the provision of critical infrastructure; and,
+* Promoting engaged, prepared, and cohesive communities.
+
+Resilient Chicago seeks to address these challenges by creating a more connected city where residents, neighborhoods, institutions, corporations, and government agencies are successfully connected in pursuit of economic opportunity, safety, security, and sustainability for all. 
+
+Resilient Chicago is organized into three resilience pillars – Strong Neighborhoods, Robust Infrastructure, and Prepared Communities – and establishes 12 goals and 49 actions the city can take to support these pillars. 
+
+# FPO IMAGE
+
+Resilient Chicago also highlights the important work of several local organizations as part of its Organization Nomination Features and details specific Calls to Action that residents can take to help build the city’s urban resilience.
+The resulting strategy is meant to serve as a living document and recognizes urban resilience is an ongoing challenge. Together, the efforts outlined in this strategy serve to equip Chicago to face its challenges head on and prepare it for a future of success and growth.
