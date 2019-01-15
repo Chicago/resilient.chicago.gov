@@ -23,7 +23,7 @@
 title: Resilient Chicago
 email: cityfeedback@cityofchicago.org
 description: A Plan for Inclusive Growth and a Connected City
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://resilient.chicago.gov" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
