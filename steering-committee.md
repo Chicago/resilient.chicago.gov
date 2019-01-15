@@ -1,5 +1,5 @@
 ---
-title: STEERING COMMITTEE
+title: Steering Committee
 layout: page
 
 ---

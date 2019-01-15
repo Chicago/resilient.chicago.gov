@@ -1,5 +1,5 @@
 ---
-title: ROOTS OF CHICAGO’S RESILIENCE
+title: Roots Of Chicago’s Resilience
 layout: page
 
 ---

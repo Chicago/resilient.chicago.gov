@@ -1,5 +1,5 @@
 ---
-title: CHICAGO’S RESILIENCE STRATEGY DEVELOPMENT PROCESS
+title: Chicago’s Resilience Strategy Development Process
 layout: page
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: VISION
+title: Vision
 layout: page
 
 ---
 
-TBD
+# FPO image

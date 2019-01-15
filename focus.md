@@ -1,5 +1,5 @@
 ---
-title: FOCUS OF THE RESILIENCE STRATEGY
+title: Focus of the Resilience Strategy
 layout: page
 
 ---
