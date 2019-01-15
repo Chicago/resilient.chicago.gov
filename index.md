@@ -24,18 +24,18 @@ Along with the city’s extraordinary assets, this record has positioned Chicago
 
 Despite all of Chicago’s strengths, the city still faces many challenges. Chicago has long been a destination for those seeking a better life and greater opportunity, from the first non-indigenous settler of the city, Jean Baptiste Point du Sable, who settled on the north bank of the Chicago River in the late 18th century, to the millions of individuals from different racial and ethnic backgrounds who have since followed. This rich history of migration and immigration has undoubtedly shaped the character and vibrancy of Chicago’s neighborhoods. Yet discriminatory practices and policies have caused disparities that disproportionately burden Chicago’s most vulnerable residents. These disparities, which often fall along geographic, racial, and socioeconomic lines, notably exist in the areas of public safety, economic opportunity, educational attainment, and transportation access, among numerous others.
 
-As the result of the strategy development process and to focus the efforts of the Chicago Resilience Strategy, Resilient Chicago, four pressing resilience challenges were identified:
+As the result of the strategy development process and to focus the efforts of the Chicago Resilience Strategy, _Resilient Chicago_, four pressing resilience challenges were identified:
 
 * Reducing disparities between Chicago’s neighborhoods;
 * Addressing the root causes of crime and violence;
 * Ensuring the provision of critical infrastructure; and,
 * Promoting engaged, prepared, and cohesive communities.
 
-Resilient Chicago seeks to address these challenges by creating a more connected city where residents, neighborhoods, institutions, corporations, and government agencies are successfully connected in pursuit of economic opportunity, safety, security, and sustainability for all. 
+_Resilient Chicago_ seeks to address these challenges by creating a more connected city where residents, neighborhoods, institutions, corporations, and government agencies are successfully connected in pursuit of economic opportunity, safety, security, and sustainability for all. 
 
-Resilient Chicago is organized into three resilience pillars – Strong Neighborhoods, Robust Infrastructure, and Prepared Communities – and establishes 12 goals and 49 actions the city can take to support these pillars. 
+_Resilient Chicago_ is organized into three resilience pillars – Strong Neighborhoods, Robust Infrastructure, and Prepared Communities – and establishes 12 goals and 49 actions the city can take to support these pillars. 
 
-# FPO IMAGE
+![One Vision: Connected Chicago. Three Pillars: strong neighborhoods, robust infrastructure, prepared communities. 12 goals: 4 goals per pillar. 49 actions: New actions to fill gaps in resilience, existing actions directly relate to achieving strategy goals, and developing actions which require additional analysis to shape.](/assets/img/rc/triangle.png)
 
-Resilient Chicago also highlights the important work of several local organizations as part of its Organization Nomination Features and details specific Calls to Action that residents can take to help build the city’s urban resilience.
+_Resilient Chicago_ also highlights the important work of several local organizations as part of its Organization Nomination Features and details specific Calls to Action that residents can take to help build the city’s urban resilience.
 The resulting strategy is meant to serve as a living document and recognizes urban resilience is an ongoing challenge. Together, the efforts outlined in this strategy serve to equip Chicago to face its challenges head on and prepare it for a future of success and growth.

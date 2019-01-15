@@ -6,7 +6,7 @@ layout: page
 
 ## Letter from the Resilient Chicago Steering Committee
 
-It has been an honor to witness the evolution and participate in the development of Resilient Chicago, and we are excited to play an active role in shaping how this strategy will come to life over the coming years. Together we represent thirty-seven different public, private, non-profit, and philanthropic organizations. We have provided input according to our expertise and passion, shared insight from our experiences, and offered guidance on the direction of the strategy to address the most pressing challenges facing Chicagoans today and into the future.
+It has been an honor to witness the evolution and participate in the development of _Resilient Chicago_, and we are excited to play an active role in shaping how this strategy will come to life over the coming years. Together we represent thirty-seven different public, private, non-profit, and philanthropic organizations. We have provided input according to our expertise and passion, shared insight from our experiences, and offered guidance on the direction of the strategy to address the most pressing challenges facing Chicagoans today and into the future.
 
 With Mayor Emanuel’s announcement that he will not seek another term, there will be new leadership at City Hall. As members of the Steering Committee, we feel it is important for the City to commit to continued implementation of the strategy through the leadership transition. From the earliest conversations with Chicagoans expressing their needs to the latter stages of identifying initiatives to meet these needs, we believe the final strategy presents an opportunity to strengthen Chicago on several critical fronts.
 
