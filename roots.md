@@ -6,7 +6,24 @@ layout: page
 
 
 Chicago is one of the most diverse, creative, and innovative cities in the United States. Located in the heart of the Midwest, it has long been a connector between the nation’s two coasts. As a major city in such a critical location, it is also home to one of the most prosperous economic centers in the country. Chicago’s resilience is deeply rooted in its history – be it through surviving a combination of natural and manmade shocks and stresses or proactively implementing initiatives to improve future responses and strengthen neighborhoods and communities.
-TIMELINE: Significant Resilience Events in Chicago’s History
+
+## Chicago In Context
+* 2.7 million residents from over 140 countries with more than 100 languages spoken
+* 77 community areas and more than 200 neighborhoods
+* 130 colleges and universities with 118,000 annual graduates
+* 39 percent of residents 25 years or older hold a Bachelor’s degree or higher
+* Record-high graduation, college acceptance, and college scholarship rates for Chicago Public Schools in 2018
+* Nearly 1 billion gallons of clean water drawn from Lake Michigan every day
+*  More than 600 parks and 8,800 acres of public green space
+*  Hundreds of cultural institutions and museums
+*  Six of the nation’s seven Class I North American railroads
+*  Six major U.S. interstates
+*  Two of the world’s busiest airports
+* Named Best Bike City in America by Bicycling Magazine in 2016
+
+## Significant Resilience Events in Chicago’s History
+
+### [TIMELINE IMAGE]
 
 
 The Great Fire of 1871’s tremendous devastation could have led to Chicago’s decline, but instead was taken as an opportunity to reimagine the city skyline and streets. Fewer than 30 years later, this renaissance continued from land to water, with the reversal of the Chicago River to protect Lake Michigan, the city's drinking water supply.
