@@ -12,89 +12,33 @@
 #   links: primary
 #
 primary:
-  - text: Challenges
-    href: /challenges
-  - text: Roots
-    href: /roots
   - text: Urban resilience
     href: /urban-resilience
-  - text: Strategy
-    href: /strategy-development
-  - text: Steering committee
-    href: /steering-committee
+  - text: Roots
+    href: /roots
   - text: Focus
     href: /focus
   - text: Vision
     href: /vision
+  - text: Challenges
+    href: /challenges
+  - text: Strategy
+    href: /strategy-development
+  - text: Steering committee
+    href: /steering-committee
+
+secondary:
   - text: City of Chicago
     href: https://www.chicago.gov
     external: true
 
-
-pages:
-  - text: Quick Start Guide
-    href: /docs/
-  - text: Accessibility
-    href: /accessibility/
-  - text: City Homepage
-    href: https://www.chicago.gov
-    external: true
-accessibility:
-  - text: Accessibility Home Page
-    href: /accessibility/
-  - text: Alternative Versions
-    href: '/accessibility/alternative-versions/'
-  - text: Checklist
-    href: '/accessibility/checklist/'
-  - text: Color
-    href: '/accessibility/color/'
-  - text: CSS
-    href: '/accessibility/css/'
-  - text: Flashing
-    href: '/accessibility/flashing/'
-  - text: Forms
-    href: '/accessibility/forms/'
-  - text: Frames
-    href: '/accessibility/frames/'
-  - text: Headings
-    href: '/accessibility/headings/'
-  - text: Hidden Content
-    href: '/accessibility/hidden-content/'
-  - text: IFrame Form
-    href: '/accessibility/iframeform/'
-  - text: Images
-    href: '/accessibility/images/'
-  - text: Keyboard
-    href: '/accessibility/keyboard/'
-  - text: Landmarks
-    href: '/accessibility/landmarks/'
-  - text: Links
-    href: '/accessibility/links/'
-  - text: Multimedia
-    href: '/accessibility/multimedia/'
-  - text: Page Titles
-    href: '/accessibility/page-titles/'
-  - text: Plugins
-    href: '/accessibility/plugins/'
-  - text: Properties
-    href: '/accessibility/properties/'
-  - text: Tables
-    href: '/accessibility/tables/'
-  - text: Timeouts
-    href: '/accessibility/timeouts/'
-  - text: Tools
-    href: '/accessibility/tools/'
-  - text: Videos
-    href: '/accessibility/training-videos/'
-  - text: Writing Guide
-    href: '/accessibility/writing-guide/'
 footer:
   - text: Accessibility
     href: /accessibility
-  - text: Patterns
-    href: https://patterns.chicagodesignsystem.org
-  - text: Playbook
-    href: https://methods.chicagodesignsystem.org
-  - text: City Homepage
-    href: https://www.chicago.gov 
+  - text: Contact
+    href: https://www.chicago.gov/city/en/general/contact.html
     external: true
+  - text: Privacy
+    href: https://www.chicago.gov/city/en/general/privacy.html
+    external: true
+

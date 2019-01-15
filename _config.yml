@@ -10,9 +10,9 @@
 
 # GitHub information
 # This is used for adding an edit this page link to the footer github:
-  organization: Chicago
-  repository: resilient.chicago.gov
-  default_branch: master
+#  organization: Chicago
+#  repository: resilient.chicago.gov
+#  default_branch: master
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
