@@ -5,6 +5,14 @@ layout: page
 ---
 
 ## Economic Hardship Index
+
+![835,249 Chicagoans were living in high economic hardship in 2014, mostly on the south and west sides of the city.](assets/img/rc/economic-hardship.png)
+
+The Economic Hardship Index compares social and economic conditions between Chicago communities. The hardship index is a relative composite of six indicators:
+ 1. Crowded housing (percentage occupied by housing units with more than one person per room); 1. Poverty (percentage of persons living below the federal poverty level); 1. Unemployment (percentage of persons over the age of 16 years who are unemployed); 1. Education (percentage of persons over the age of 25 years without a high school education; 1. Dependency (percentage of the population under 18 or over 64 years of age); and 1. Income (per capita income).
+
+The hardship index provides a more complete, multidimensional measure of community socioeconomic conditions than individual measures such as income or employment alone. A community with a high hardship index score has worse social and/or economic conditions than a community with a low or medium hardship score.
+
  
 
 ## Reducing Disparities between Chicago’s Neighborhoods
@@ -21,7 +29,7 @@ Despite the City’s commitment to promote prosperity for all Chicagoans through
 
 ## Addressing the Root Causes of Crime and Violence
 
-## [GRAPHIC NEEDED]
+![Image of residents and police officers of Chicago holding hands](assets/img/rc/Addressing-the-Root-Causes-of-Crime-and-Violence.jpg)
 
 Crime and violence undermine Chicago communities by threatening the health and well-being of the city’s residents. Despite a downward trend in murders nationally, Chicago suffered from a sudden 58 percent increase in homicides in 2016, with 762 reported in total. Non-violent crimes, including property crimes such as car theft and vandalism, occurred at even higher numbers. While these trends have improved in recent years, the risk of being crime-involved, by committing or falling victim to a crime, still extends to far too many Chicagoans.
 
@@ -37,7 +45,7 @@ Despite these major strides, systemic changes to address the root causes of crim
 
 ## Ensuring the Provision of Critical Infrastructure
 
-## [GRAPHIC NEEDED]
+![Image of workers building a bridge across the Chicago River](assets/img/rc/Ensuring-the-Provision-of-Critical-Infrastructure.jpg)
 
 Chicago emerged as a leading transportation hub for people and goods due to its natural assets and central location within the United States. The city’s earliest non-indigenous explorers recognized the economic potential intrinsic to its waterways and Lake Michigan and laid roots accordingly. By the mid-19th century, nearly a dozen rail lines crisscrossed the city, carrying goods like grain, timber, and meat and spurring the rapid growth of new industries. With booming commerce and the promise of economic opportunity, individuals relocated to Chicago en masse, often by rail. By the turn of the 20th century, Chicago’s population had grown to nearly 1.7 million residents and, by 1950, had more than doubled to over 3.6 million residents.
 
@@ -51,7 +59,8 @@ However, like many large cities, Chicago faces the daunting task of replacing it
 
 ## Promoting Engaged, Prepared, and Cohesive Communities
 
-## [GRAPHIC NEEDED]
+![Image of children at a park district event](assets/img/rc/Promoting-Engaged-Prepared-and-Cohesive-Communities.jpg)
+
 The greatness of any city lies in its people, and in this regard, Chicago is no exception. Chicago has demonstrated over the course of its history that its residents share a collective commitment to reinvent their city for the better. Whether by coming together to build the world’s first urban skyscraper in response to the Great Fire of 1871, reverse the flow of the Chicago River in 1900 to protect Lake Michigan, or pioneer modern grassroots organizing techniques to equip activists with the tools necessary to transform their communities, the ability of Chicagoans to bring about positive change is profound.
 Chicago must continue to strengthen the connections between residents, communities, and local government. Residents have a finger on the pulse of the city and live out the unique gifts and challenges of their communities every day. Local government supports communities best when it learns from the experiences of its constituents. As such, connected, civically engaged residents have the power to shape the programs and policies that affect their communities by proactively identifying and addressing areas of need. Chicago is more resilient when residents meet with local officials, vote in elections, join neighborhood groups, and perform community service activities. A culture of engagement and action creates a more equitable and connected city.
 The City of Chicago has taken concrete steps to promote an engaged constituency. The Mayor’s Office, City of Chicago departments and agencies, and local aldermen host community meetings to hear from residents directly and communicate information through mailers, newsletters, and social media. City Council meetings are open to public comment and platforms such as 311 and CHIdeas have been developed to make it easier for the City to garner input and respond to residents. Residents can sign up for the Office of Emergency Management and Communication’s Notify Chicago service, which provides text messages and e-mail alerts regarding both emergency and non-emergency situations developing in the city, or for Smart 911 that enables residents or visitors to have their information immediately available to 911.
