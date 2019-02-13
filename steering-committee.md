@@ -4,6 +4,9 @@ layout: page
 
 ---
 
+### !-- missing image
+
+
 ## Letter from the Resilient Chicago Steering Committee
 
 It has been an honor to witness the evolution and participate in the development of _Resilient Chicago_, and we are excited to play an active role in shaping how this strategy will come to life over the coming years. Together we represent thirty-seven different public, private, non-profit, and philanthropic organizations. We have provided input according to our expertise and passion, shared insight from our experiences, and offered guidance on the direction of the strategy to address the most pressing challenges facing Chicagoans today and into the future.
@@ -57,3 +60,5 @@ Robert Rivkin | Mayor's Office
 Shaina Doar | Sidewalk Labs
 Steve Caluris, Patrick Quinn | Chicago Police Crime Prevention and Information Center
 Theaster Gates | University of Chicago
+
+### !-- missing image

@@ -6,7 +6,10 @@ layout: page
 
 ### [GRAPHIC OF THE TIMELINE]
 
-## Chief Resilience Officer hired to lead the development of Chicago’s Resilience Strategy (Summer 2016)
+## _Chief Resilience Officer hired to lead the development of Chicago’s Resilience Strategy (Summer 2016)_
+
+### !-- missing image
+
 
 ## Phase 1: Preliminary Resilience Assessment (Fall 2016 – Summer 2017)
 * _Agenda Setting Workshop_ to gather stakeholder engagement and direct focus of Phase 1
@@ -97,6 +100,7 @@ Through these efforts, it became clear that many of Chicago’s challenges resul
 
 _Resilient Chicago_ seeks to promote connection through its various actions, which expand upon existing efforts, introduce short-term initiatives for implementation, and identify roadmaps for long-term priorities. This strategy shines a light on these promising approaches that support Chicago’s overall resilience as a city.
 
+
 ### Example Existing City Efforts Identified
 
 * Infrastructure and Transportation:
@@ -130,4 +134,3 @@ _Resilient Chicago_ seeks to promote connection through its various actions, whi
 ------
 [^1]: Healthy Chicago 2.0, Sustainable Chicago 2015, Second Term Priorities 2015, the Mayor’s Commission for a Safer Chicago, and the 2012 All-Hazard Mitigation Plan
 
-
