@@ -4,7 +4,7 @@ layout: page
 
 ---
 
-### !-- missing image
+![An image of the steering committee meeting.](/assets/img/rc/steering-committee.jpg)
 
 
 ## Letter from the Resilient Chicago Steering Committee
@@ -60,5 +60,3 @@ Robert Rivkin | Mayor's Office
 Shaina Doar | Sidewalk Labs
 Steve Caluris, Patrick Quinn | Chicago Police Crime Prevention and Information Center
 Theaster Gates | University of Chicago
-
-### !-- missing image
