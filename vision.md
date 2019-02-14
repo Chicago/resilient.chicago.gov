@@ -6,7 +6,7 @@ layout: page
 
 A _Resilient Chicago_ is a city where residents, neighborhoods, institutions, corporations, and government agencies are successfully connected to each other in the pursuit of economic opportunity, safety, equity, and sustainability.
 
-#!---[A connected Chicago is a city that works for everyone.](assets/img/rc/vision.png)
+![A connected Chicago is a city that works for everyone.](assets/img/rc/vision.png)
 
 ## A more Connected Chicago is a city with
 

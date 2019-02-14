@@ -4,13 +4,6 @@ layout: page
 
 ---
 
-### [GRAPHIC OF THE TIMELINE]
-
-## _Chief Resilience Officer hired to lead the development of Chicago’s Resilience Strategy (Summer 2016)_
-
-### !-- missing image
-
-
 ## Phase 1: Preliminary Resilience Assessment (Fall 2016 – Summer 2017)
 * _Agenda Setting Workshop_ to gather stakeholder engagement and direct focus of Phase 1
 * _Actions Inventory & Perceptions Analysis_ to assess Chicago’s shocks and stresses and existing efforts

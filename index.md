@@ -35,6 +35,6 @@ _Resilient Chicago_ seeks to address these challenges by creating a more connect
 
 _Resilient Chicago_ is organized into three resilience pillars – Strong Neighborhoods, Robust Infrastructure, and Prepared Communities – and establishes 12 goals and 50 actions the city can take to support these pillars.
 
-### !--[One Vision: Connected Chicago. Three Pillars: strong neighborhoods, robust infrastructure, prepared communities. 12 goals: 4 goals per pillar. 49 actions: New actions to fill gaps in resilience, existing actions directly relate to achieving strategy goals, and developing actions which require additional analysis to shape.](/assets/img/rc/triangle.png)
+![One Vision: Connected Chicago. Three Pillars: strong neighborhoods, robust infrastructure, prepared communities. 12 goals: 4 goals per pillar. 49 actions: New actions to fill gaps in resilience, existing actions directly relate to achieving strategy goals, and developing actions which require additional analysis to shape.](/assets/img/rc/pyramid.png)
 
 _Resilient Chicago_ also highlights the important work of several local organizations as part of its Organization Features and details specific Calls to Action that residents can take to help build the city’s urban resilience.

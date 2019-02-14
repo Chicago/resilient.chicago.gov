@@ -9,7 +9,7 @@ _Resilient Chicago_ seeks to address the city’s key challenges – experienced
 
 The strategy is supported by three resilience pillars: Strong Neighborhoods, Robust Infrastructure, and Prepared Communities. These areas were prioritized as each one is critical to the resilience of the city, requires broad-based support, and demands a comprehensive approach.
 
-### !-[3 pillars image here. text repeated below]()
+![The three pillars of Chicago resilience are:](/assets/img/rc/three-pillars.png)
 
 * *Pillar 1: Strong Neighborhoods.* Ensure every resident in every neighborhood has the access and opportunity to participate in the economic future of Chicago.
 * *Pillar 2: Robust Infrastructure.* Connect infrastructure investments to strategies that create economic opportunity for all Chicagoans and enhance quality of life for vulnerable communities.

@@ -21,7 +21,7 @@ The hardship index provides a more complete, multidimensional measure of communi
 
 ## Reducing Disparities between Chicago’s Neighborhoods
 
-### !-- missing image
+![Image of a playground.](assets/img/rc/reducing-disparities.jpg)
 
 Chicago has always been a city of enormous diversity. In 2016, the city’s population was 32.3 percent white, 30.6 percent Black or African American, 29.1 percent Hispanic or Latino, 6.0 percent Asian, 1.6 percent multi-racial, and 0.4 percent American Indian, Alaska Native, Native Hawaiian, other Pacific Islander, or some other race. The city’s rich history of immigration and culture is reflected in its people, with residents from over 140 countries and more than 100 languages spoken. 
 
