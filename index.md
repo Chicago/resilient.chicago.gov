@@ -10,7 +10,7 @@ hero:
     alt: "Resilient Chicago"
     text: A Plan for Inclusive Growth & a Connected City
   button:
-    href: javascript:void(0);
+    href: /download/Resilient Chicago.pdf
     text: Download the report
   content: Read the full report here: 
 
