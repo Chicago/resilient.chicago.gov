@@ -10,9 +10,9 @@ hero:
     alt: "Resilient Chicago"
     text: A Plan for Inclusive Growth & a Connected City
   button:
-    href: /download/Resilient Chicago.pdf
+    href: https://resilient.chicago.gov/download/Resilient Chicago.pdf
     text: Download the report
-  content: Read the full report here: 
+  content: "Read the full report here:" 
 
 tagline: About Resilient Chicago
 intro: Resilience – the ability to rebound quickly from and strengthen a city’s capacity to respond to shocks or stresses – is not a new concept for Chicagoans. Time and again, the city has proven its ability to take on challenges and achieve unprecedented accomplishments. After the Great Fire of 1871, Chicago residents helped the city rise from the ashes and rebuilt a stronger, smarter, and reimagined urban landscape with innovations such as the modern skyscraper. With the reversal of the Chicago River in 1900, Chicago took a critical step to protect the city’s supply of clean drinking water and Lake Michigan. Chicago has taken bold steps to ensure that the city is well positioned to respond to shocks – such as heat waves and blizzards – and stresses – such as crime, violence, and poverty. 
